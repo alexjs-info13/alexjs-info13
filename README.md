@@ -16,7 +16,7 @@ Estudante de TI explorando programação, lógica e desenvolvimento de software.
 ## 📬 Contatos
 <p>
   <a href="mailto:alexjs.lan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-  <a href="https://instagram.com/alexoerudito" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://instagram.com/alexoerudito" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" alt="Instagram Logo"/></a>
 </p>
 
 ---
