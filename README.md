@@ -13,15 +13,31 @@ Estudante de TI explorando programação, lógica e desenvolvimento de software.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📬 Contatos
+<p>
+  <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://instagram.com/alexoerudito" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+</p>
+---
 
-| Categoria | Tecnologias / Ferramentas |
-| :--- | :--- |
-| **Linguagens** | Python, Java (conhecimentos básicos) |
-| **Banco de Dados** | MySQL |
-| **Infraestrutura & Projetos** | Montagem de Computadores, AutoCAD (CEDIPRO), Informática Básica |
-| **Ambientes & Editores** | Google Colab, Visual Studio Code |
-| **Controle de Versão** | Git, GitHub |
+## 🛠️ Linguagens e Ferramentas
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />&nbsp;&nbsp;
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />&nbsp;&nbsp;
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;&nbsp;
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />&nbsp;&nbsp;
+  <!-- Google Colab -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40" />&nbsp;&nbsp;
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />&nbsp;&nbsp;
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</p>
 
 ---
 
