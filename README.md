@@ -27,12 +27,4 @@ Estudante de TI explorando programação, lógica e desenvolvimento de software.
 * **[Meus Projetos Python](https://github.com/alexjs-info13/meus_projetos_python)** — Repositório central com meus códigos, exercícios e jogos desenvolvidos em Python.
 
 ---
-
-## 📈 Estatísticas do GitHub
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alexjs-info13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjs-info13&layout=compact&theme=tokyonight" />
-</p>
-
----
 ⌨️ Desenvolvido por [Alex Junio](https://github.com/alexjs-info13).
