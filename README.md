@@ -5,10 +5,11 @@ Estudante de TI explorando programação, lógica e desenvolvimento de software.
 ---
 
 ## 💻 Sobre Mim
+* 🎓 **Bacharel em Administração** (Ibhes/Facemg) — unindo visão de negócios e processos à tecnologia.
 * 🎓 Atualmente cursando **Tecnologia da Informação no Grau Técnico**.
-* 🧠 Possui formação em **Lógica de Programação pelo Senac**.
+* 🧠 Formação em **Lógica de Programação** pelo Senac.
 * 🐍 Foco principal em **Python**, banco de dados **MySQL** e desenvolvimento de scripts e aplicações.
-* 🚀 Em constante evolução, unindo conhecimentos de administração e tecnologia para resolver problemas práticos.
+* 🛠️ Experiência técnica complementar em **Montagem de Computadores** e **AutoCAD**.
 
 ---
 
@@ -18,6 +19,7 @@ Estudante de TI explorando programação, lógica e desenvolvimento de software.
 | :--- | :--- |
 | **Linguagens** | Python, Java (conhecimentos básicos) |
 | **Banco de Dados** | MySQL |
+| **Infraestrutura & Projetos** | Montagem de Computadores, AutoCAD (CEDIPRO), Informática Básica |
 | **Ambientes & Editores** | Google Colab, Visual Studio Code |
 | **Controle de Versão** | Git, GitHub |
 
