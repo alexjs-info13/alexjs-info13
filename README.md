@@ -44,7 +44,7 @@ Estudante de TI explorando programação, lógica e desenvolvimento de software.
 
 ## 📂 Meus Projetos em Destaque
 * **[Meus Projetos Python](https://github.com/alexjs-info13/meus_projetos_python)** — Repositório central com meus códigos, exercícios e jogos desenvolvidos em Python.
-* **[Projeto_SPA](https://github.com/alexjs-info13/spa-presenca)** - Repositório com projeto em desenvolvimento (Sistema de Presença Acadêmica [SPA]).  
+* **[Projeto_SPA](https://github.com/alexjs-info13/spa-presenca)** - Repositório oficial do Sistema de Presença Acadêmica (SPA), um software desenvolvido em Python para o controlo automatizado de frequência escolar.  
 
 ---
 ⌨️ Desenvolvido por [Alex Junio](https://github.com/alexjs-info13).
